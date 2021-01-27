@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  It is a suite of open-source Indic programming languages. It includes compilers for the equivalents of C, C++, lex, yacc, assembly, BASIC, Ada etc. in Hindi,  Bangla, Gujrati, Assomiya, Nepali and other Indian languages. These localized programming languages are known as Shaili, e.g. Indic C is Shaili Guru, Indic C++  is Shaili Shraenibadha, Indic Assembly is Shaili Yantrik and so on.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
@@ -64,7 +64,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https:/https://hindawiai.github.io/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Hindawi-Programming-System-196804757588931"
