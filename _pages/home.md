@@ -12,6 +12,7 @@ header:
 excerpt: >
   Programming in Your Mother Tongue<br/>
   <small><a href="about/">More about Project Hindawi</a></small>
+  <small><a href="https://colab.research.google.com/github/hindawiai/hindawi2020/blob/master/Notebooks/Hindawi2021.6.ipynb">Try Hindawi Online</a></small>
 feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
@@ -21,6 +22,16 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOrXYpwgB8Le8X/view" data-text="Support Project Hindawi" data-color="#528FF0" data-size="large">
+  <script>
+    (function(){
+      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
+      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
+      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
+      rzp && rzp.init && rzp.init()}})();
+  </script>
+</div>
+    
 
 {% include feature_row %}
 
