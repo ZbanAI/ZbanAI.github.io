@@ -12,7 +12,7 @@ header:
 excerpt: >
   Programming in Your Mother Tongue<br/>
   <small><a href="about/">More about Project Hindawi</a></small>
-  <small><a href="https://colab.research.google.com/github/hindawiai/hindawi2020/blob/master/Notebooks/Hindawi2021.6.ipynb">Try Hindawi Online</a></small>
+  <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/हिंदवी_2021_7_स्मरण_पुस्तिका.ipynb">Try Hindawi Online</a></small>
 feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
