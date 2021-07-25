@@ -41,7 +41,7 @@ feature_row:
 
 
 
-Join our whatsapp group : [https://chat.whatsapp.com/LkMMARG9iVg7bJUXobqxvQ](url)
+Join our whatsapp group : [https://chat.whatsapp.com/LkMMARG9iVg7bJUXobqxvQ](whatsapp group)
 
 
 
