@@ -39,6 +39,8 @@ feature_row:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CssOPazgft4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Join our whatsapp group : [https://chat.whatsapp.com/LkMMARG9iVg7bJUXobqxvQ](url)
+
 Hindawi is an open-source, complete non-English based systems programming platform supporting all paradigms of programming languages from assembly language to logic and functional programming, which effectively shatters the language barrier allowing non English literates to take up computer sciences and revolution at all levels of technology, from primary school education to robotics and super-computing in their mother tongue, without the need to master English.
 
 It is a suite of open-source Indic programming languages. It includes compilers for the equivalents of C, C++, lex, yacc, assembly, BASIC, Ada etc. in Hindi, Bangla, Gujrati, Assomiya, Nepali and other Indian languages. These localized programming languages are known as Shaili, e.g. Indic C is Shaili Guru, Indic C++ is Shaili Shraenibadha, Indic Assembly is Shaili Yantrik and so on.
