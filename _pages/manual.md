@@ -1,4 +1,3 @@
-
 ---
 permalink: /manual/
 title: Manual
