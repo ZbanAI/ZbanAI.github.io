@@ -1,7 +1,7 @@
 
 ---
-permalink: /terms/
-title: Terms & Conditions
+permalink: /manual/
+title: Manual
 ---
 
 Find the link to manual for Hindawi Programming System below: 
