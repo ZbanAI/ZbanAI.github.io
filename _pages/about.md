@@ -17,5 +17,5 @@ The term Hindawi is often used to denote Hindawi Programming System or HPS along
 Hindawi is also used as a generic term for other Indian language compiler systems derived from it such as BangaBhasha (compiler system for Bangla programming languages), also developed by our project.
 
 ## History
-Hindawi Programming System was developed by Abhishek Choudhary around between 1995 and 2004. It involved inventing Romenagri compiler compatible transliteration and APCISR character composing methods.
+Hindawi Programming System was developed by Abhishek Choudhary between 1995 and 2004. It involved inventing Romenagri compiler compatible transliteration and APCISR character composing methods. The project has been through multiple iterations of updates and major changes since its original release on 15th August 2004.
 
