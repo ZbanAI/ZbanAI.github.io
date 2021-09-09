@@ -14,6 +14,7 @@ excerpt: >
   <small><a href="about/">More about Project Hindawi</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/हिंदवी_2021_7_स्मरण_पुस्तिका.ipynb">Try Hindawi Online</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/Hindawi_Ported_Linux_Kernel_Compilation.ipynb">Try compiling the Linux kernel being ported to Hindawi</a></small>
+  <small><a href="https://colab.research.google.com/github/hindawiai/chintamani//blob/telugu/Notebooks/PY_TE_Telugu_Hindawi_2021_9.ipynb">Telugu Python - alpha version</a></small>
 feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
