@@ -25,7 +25,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
 <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOrXYpwgB8Le8X/view" data-text="Support Project Hindawi" data-color="#528FF0" data-size="large">
+  <h3>Support Hindawi Programming System and Project VIKRAM - AI for inclusive growth</h3>
+  <p>All contributions in support of Project Hindawi will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
   <script>
     (function(){
       var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
@@ -34,7 +37,6 @@ feature_row:
       rzp && rzp.init && rzp.init()}})();
   </script>
 </div>
-    
 
 {% include feature_row %}
 
