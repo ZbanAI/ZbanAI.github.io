@@ -26,6 +26,8 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+{% include feature_row %}
+
 <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOrXYpwgB8Le8X/view" data-text="Support Project Hindawi" data-color="#528FF0" data-size="large">
   <h3>Support Hindawi Programming System and Project VIKRAM - AI for inclusive growth</h3>
   <p>All contributions in support of Project Hindawi will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
@@ -37,8 +39,6 @@ feature_row:
       rzp && rzp.init && rzp.init()}})();
   </script>
 </div>
-
-{% include feature_row %}
 
 
 Demo of Hindawi Programming System Notebook :
