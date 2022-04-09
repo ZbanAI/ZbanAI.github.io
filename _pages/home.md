@@ -24,6 +24,13 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+  - image_path: /assets/images/hindawi-progg-sys.jpg
+    alt: "Hindawi course"
+    title: "Hindawi Course by AyeAI"
+    excerpt: "Learn to program in Hindawi Programming System at AyeAI"
+    url: "https://ayeai.xyz/site/courses/uncategorized/hindawi-training-level-1-for-gyan-bharti/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
