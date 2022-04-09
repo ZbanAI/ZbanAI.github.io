@@ -18,19 +18,19 @@ excerpt: >
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/PY_TE_Telugu_Hindawi_2021_9_AI_Face_Recog.ipynb">Face Recognition with Telugu Python - alpha version</a></small>
 feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
-    alt: "language neutrality"
-    title: "Language Neutral Technologies"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project VIKRAM together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
-  - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "Hindawi course"
     title: "Hindawi Course by AyeAI"
     excerpt: "Learn to program in Hindawi Programming System at AyeAI"
     url: "https://ayeai.xyz/site/courses/uncategorized/hindawi-training-level-1-for-gyan-bharti/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Join Hindawi course"
+  - image_path: /assets/images/hindawi-progg-sys.jpg
+    alt: "language neutrality"
+    title: "Language Neutral Technologies"
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project VIKRAM together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"   
 ---
 
 {% include feature_row %}
