@@ -38,7 +38,7 @@ feature_row:
 <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOrXYpwgB8Le8X/view" data-text="Support Project Hindawi" data-color="#528FF0" data-size="large">
   <h3>Support Hindawi Programming System and Project VIKRAM - AI for inclusive growth</h3>
   <p>All contributions in support of Project Hindawi will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p><br>
-  <h3>समर्थन हिंदवी प्रोग्रामिंग सिस्टम और प्रोजेक्ट विक्रम - समावेशी विकास के लिए एआई</h3>
+  <h3>हिंदवी प्रोग्रामिंग सिस्टम और प्रोजेक्ट विक्रम - समावेशी विकास के लिए एआई</h3>
   <p>प्रोजेक्ट हिंदवी के समर्थन में सभी योगदानों को आयएआई कंसल्टिंग द्वारा बिक्री के रूप में दिखाया जाएगा और सभी करों (जीएसटी सहित) का भुगतान किया जाएगा।</p>
   <script>
     (function(){
