@@ -18,12 +18,12 @@ excerpt: >
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/PY_TE_Telugu_Hindawi_2021_9_AI_Face_Recog.ipynb">Face Recognition with Telugu Python - alpha version</a></small>
 feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
-    alt: "Hindawi course"
-    title: "Hindawi Course by AyeAI"
-    excerpt: "Learn to program in Hindawi Programming System at AyeAI"
-    url: "https://ayeai.xyz/site/courses/uncategorized/hindawi-training-level-1-for-gyan-bharti/"
+    alt: "हिंदवी पाठ्यक्रम"
+    title: "हिंदवी पाठ्यक्रम - AyeAI"
+    excerpt: "AyeAI पर हिंदवी प्रोग्रामिंग सिस्टम में प्रोग्राम करना सीखें"
+    url: "[https://ayeai.xyz/site/courses/uncategorized/%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%b5%e0%a5%80-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%82%e0%a4%97-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be/]"
     btn_class: "btn--primary"
-    btn_label: "Join Hindawi course"
+    btn_label: "छात्र पंजीकरण"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Language Neutral Technologies"
