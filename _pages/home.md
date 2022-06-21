@@ -21,7 +21,7 @@ feature_row:
     alt: "हिंदवी पाठ्यक्रम"
     title: "हिंदवी पाठ्यक्रम - AyeAI"
     excerpt: "AyeAI पर हिंदवी प्रोग्रामिंग सिस्टम में प्रोग्राम करना सीखें"
-    url: "[https://ayeai.xyz/site/courses/uncategorized/%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%b5%e0%a5%80-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%82%e0%a4%97-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be/]"
+    url: "https://ayeai.xyz/site/courses/uncategorized/hindawi-registration_hi/"
     btn_class: "btn--primary"
     btn_label: "छात्र पंजीकरण"
   - image_path: /assets/images/hindawi-progg-sys.jpg
