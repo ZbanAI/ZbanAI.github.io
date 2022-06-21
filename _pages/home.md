@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
 excerpt: >
-  Programming in Your Mother Tongue<br/>
+  मातृभाषा में प्रोग्रामिंग Programming in Your Mother Tongue<br/>
   <small><a href="about/">प्रोजेक्ट हिंदवी के बारे में अधिक जानकारी</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/हिंदवी_2021_7_स्मरण_पुस्तिका.ipynb">हिंदवी ऑनलाइन अभ्यास करें</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/Hindawi_Ported_Linux_Kernel_Compilation.ipynb">Try compiling the Linux kernel being ported to Hindawi</a></small>
