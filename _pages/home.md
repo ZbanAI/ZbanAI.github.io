@@ -16,6 +16,7 @@ excerpt: >
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/Hindawi_Ported_Linux_Kernel_Compilation.ipynb">Try compiling the Linux kernel being ported to Hindawi</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani//blob/telugu/Notebooks/PY_TE_Telugu_Hindawi_2021_9.ipynb">Telugu Python - alpha version</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/PY_TE_Telugu_Hindawi_2021_9_AI_Face_Recog.ipynb">Face Recognition with Telugu Python - alpha version</a></small>
+  <small><a href="htpps://hindawi.in/indic2dev.html">Romenagri Transliteration</a></small>
 feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "हिंदवी पाठ्यक्रम"
