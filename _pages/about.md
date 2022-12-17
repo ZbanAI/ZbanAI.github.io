@@ -19,3 +19,8 @@ Hindawi is also used as a generic term for other Indian language compiler system
 ## History
 Hindawi Programming System was developed by Abhishek Choudhary between 1995 and 2004. It involved inventing Romenagri compiler compatible transliteration and APCISR character composing methods. The project has been through multiple iterations of updates and major changes since its original release on 15th August 2004.
 
+## Citations
+http://web.archive.org/web/20221216160338/http://pu.edu.pk/images/journal/csas/PDF/20%20Kamran%20Abid_v31_no1_jan-jun2016.pdf
+
+
+
