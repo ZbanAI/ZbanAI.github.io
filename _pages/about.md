@@ -38,6 +38,8 @@ on page 108
 
 https://scholar.google.com/scholar?q=related:V630RK9PCRQJ:scholar.google.com/&scioq=%22hindawi+programming+system%22&hl=en&as_sdt=0,5&authuser=1
 
+https://ieeexplore.ieee.org/abstract/document/7026875
+
 ### Page escrowed at https://web.archive.org/web/https://hindawi.in/about/
 
 
