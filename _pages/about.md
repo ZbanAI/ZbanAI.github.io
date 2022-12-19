@@ -27,5 +27,17 @@ Hindawi Programming System was developed by Abhishek Choudhary between 1995 and 
 
 http://web.archive.org/web/20221216160338/http://pu.edu.pk/images/journal/csas/PDF/20%20Kamran%20Abid_v31_no1_jan-jun2016.pdf
 
+https://pdfs.semanticscholar.org/d329/4b2a1b0ab39aa273d69ce4eb8323c4f2d6de.pdf
+
+www.journals.ui.edu.ng/index.php/uijslictr/article/view/70
+
+http://journals.pu.edu.pk/journals/index.php/IJSAS/article/view/3048
+
+https://books.google.co.in/books?hl=en&lr=&id=92P2AgAAQBAJ&oi=fnd&pg=PA4&dq=%22hindawi+programming+system%22&ots=-wJOG2aeTX&sig=Y8mhL05AUNZFwgQsFkyUnxi0UGM&redir_esc=y#v=onepage&q=%22hindawi%20programming%20system%22&f=false
+on page 108
+
+https://scholar.google.com/scholar?q=related:V630RK9PCRQJ:scholar.google.com/&scioq=%22hindawi+programming+system%22&hl=en&as_sdt=0,5&authuser=1
+
+
 
 
