@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: Project Hindawi
+title: Zban AI
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://docs.google.com/drawings/d/e/2PACX-1vSfAv6VRBL0AjHbgMnBzyhsICyvEDZfoV0bY43s72e6_ACgZ3N9R4OC33cYCErPeAxs9DhDmT_6veH3/pub?w=4110&h=2621
@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-github'></i> Join us"
       url: "/join-us/"
 excerpt: >
-  मातृभाषा में प्रोग्रामिंग Programming in Your Mother Tongue<br/>
+  मातृभाषा में प्रोग्रामिंग Programming in Urdu, Persian, Dari and Phasto<br/>
   <small><a href="about/">प्रोजेक्ट हिंदवी के बारे में अधिक जानकारी</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/हिंदवी_2021_7_स्मरण_पुस्तिका.ipynb">हिंदवी ऑनलाइन अभ्यास करें</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/Hindawi_Ported_Linux_Kernel_Compilation.ipynb">Try compiling the Linux kernel being ported to Hindawi</a></small>
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Language Neutral Technologies"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project VIKRAM together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project VIKRAM together with Zban AI is ushering in lanaguage neutrality across technical domains."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
@@ -36,9 +36,9 @@ feature_row:
 
 {% include feature_row %}
 
-<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOrXYpwgB8Le8X/view" data-text="Support Project Hindawi" data-color="#528FF0" data-size="large">
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOrXYpwgB8Le8X/view" data-text="Support Zban AI" data-color="#528FF0" data-size="large">
   <h3>Support Hindawi Programming System and Project VIKRAM - AI for inclusive growth</h3>
-  <p>All contributions in support of Project Hindawi will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p><br>
+  <p>All contributions in support of Zban AI will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p><br>
   <h3>हिंदवी प्रोग्रामिंग सिस्टम और प्रोजेक्ट विक्रम - समावेशी विकास के लिए एआई</h3>
   <p>प्रोजेक्ट हिंदवी के समर्थन में सभी योगदानों को आयएआई कंसल्टिंग द्वारा बिक्री के रूप में दिखाया जाएगा और सभी करों (जीएसटी सहित) का भुगतान किया जाएगा।</p>
   <script>
